@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+.container{
+	margin:0px 0px;
+}
+.header {
+	border-bottom:inset thin #060;
+	margin-bottom: 40px;
+	background-color:#808080;
+	
+}
+.header h1 {
+	font-size: xx-large;
+	font-weight: 100;
+	color: #060;
+	margin: auto;
+	width: 30%;
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	
+ }
+.content{
+	width: 100%;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	background-color :#D6D6D6;
+}
+.content_image{
+	width: 200px;
+	margin-left: 250px;
+	bottom: 100px;
+	border-radius: 40px;
+	float:left;
+}
+.content_info{
+	width:400px;
+	float:right;
+	margin-right: 250px;
+	text-align:justify;
+}
+.content_info p{
+	padding-bottom: 30px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	
+}
